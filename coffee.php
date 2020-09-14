@@ -22,11 +22,11 @@
             </div>
             <div class="coffee-item" cost="120">
               <img src="img/cappuccino.png" alt="Капучино">
-              <span>Капучино - 78 руб.</span>
+              <span>Капучино - 120 руб.</span>
             </div>
             <div class="coffee-item" cost="83">
               <img src="img/espresso.png" alt="Эспрессо">
-              <span>Эспрессо - 60 руб.</span>
+              <span>Эспрессо - 83 руб.</span>
             </div>
             <div class="coffee-item" cost="94">
               <img src="img/latte.jpg" alt="Латте">
